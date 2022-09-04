@@ -1,1 +1,5 @@
 https://trello.com/b/hdxBUrR9/week6mondaylab
+
+low level testing - checking that a component works
+high level testing - checking the functionality of bigger things
+(probably several components together)
